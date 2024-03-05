@@ -1,0 +1,14 @@
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\bin\Debug\net6.0\assignment0.exe
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\bin\Debug\net6.0\assignment0.deps.json
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\bin\Debug\net6.0\assignment0.runtimeconfig.json
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\bin\Debug\net6.0\assignment0.dll
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\bin\Debug\net6.0\assignment0.pdb
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\obj\Debug\net6.0\assignment0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\obj\Debug\net6.0\assignment0.AssemblyInfoInputs.cache
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\obj\Debug\net6.0\assignment0.AssemblyInfo.cs
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\obj\Debug\net6.0\assignment0.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\obj\Debug\net6.0\assignment0.dll
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\obj\Debug\net6.0\refint\assignment0.dll
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\obj\Debug\net6.0\assignment0.pdb
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\obj\Debug\net6.0\assignment0.genruntimeconfig.cache
+C:\Users\hugoj\OneDrive\Documentos\week7\assignment0\obj\Debug\net6.0\ref\assignment0.dll
